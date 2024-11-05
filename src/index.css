@@ -255,15 +255,9 @@ ul {
 
 /* ============= PROJECT CSS =============== */
 
-/* optional overwrite */
-
 body {
   background: var(--primary-100);
 }
-
-/* * {
-  border: 2px solid red;
-} */
 
 main {
   min-height: 100vh;
@@ -273,7 +267,6 @@ main {
   flex-direction: column;
 }
 .container {
-  /* border: 2px solid red; */
   width: 90vw;
   max-width: var(--fixed-width);
   margin: 5rem 0;
